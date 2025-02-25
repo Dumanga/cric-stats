@@ -15,13 +15,13 @@ import {
 } from '@mui/material';
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
-import battingRankings from '../data/battingRankings';
+import bowlingRankings from '../data/bowlingRankings.json';
 
-const BattingRankings = () => {
+const BowlingRankings = () => {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
 
-
+ 
 
   const getMovementIcon = (movement) => {
     if (movement > 0) return <ArrowUpwardIcon sx={{ color: '#22c55e', fontSize: '1rem' }} />;
@@ -99,12 +99,12 @@ const BattingRankings = () => {
             }}>
               <TableCell>Pos</TableCell>
               <TableCell>Players</TableCell>
-              <TableCell>Runs</TableCell>
+              <TableCell>Wickets</TableCell>
               {/* {!isMobile && <TableCell>Average</TableCell>} */}
             </TableRow>
           </TableHead>
           <TableBody>
-            {battingRankings.map((row) => (
+            {bowlingRankings.map((row) => (
               <TableRow
                 key={row.pos}
                 sx={{ 
@@ -197,14 +197,14 @@ const BattingRankings = () => {
                 <TableCell>
                   <Typography 
                     sx={{ 
-                      fontWeight: '700',
+                      fontWeight: '700',                     
                       color: row.pos === 1 ? '#ad0773' : '#0a1f40',
                       fontSize: row.pos === 1 
                         ? { xs: '0.875rem', sm: '1rem', md: '1.125rem' }
                         : { xs: '0.75rem', sm: '0.875rem', md: '1rem' },
                     }}
                   >
-                    {row.runs}
+                    {row.wickets}
                   </Typography>
                 </TableCell>
                 {/* {!isMobile && (
@@ -230,4 +230,4 @@ const BattingRankings = () => {
   );
 };
 
-export default BattingRankings;
+export default BowlingRankings;
