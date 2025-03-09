@@ -2,106 +2,106 @@
   {
     "pos": 1,
     "movement": 0,
-    "playerName": "DUMANGA DISSANAYAKA",
-    "runs": 107,
-    "avatar": "/assets/playerImgs/dumanga.png"
+    "playerName": "SUPUN CHATHURA",
+    "runs": 156,
+    "avatar": "/assets/playerImgs/supun.png"
   },
   {
     "pos": 2,
     "movement": 0,
-    "playerName": "SUPUN CHATHURA",
-    "runs": 100,
-    "avatar": "/assets/playerImgs/supun.png"
+    "playerName": "DILEEPA GAYAN",
+    "runs": 151,
+    "avatar": "/assets/playerImgs/dileepa.png"
   },
   {
     "pos": 3,
     "movement": 0,
-    "playerName": "DILEEPA GAYAN",
-    "runs": 62,
-    "avatar": "/assets/playerImgs/dileepa.png"
+    "playerName": "DUMANGA DISSANAYAKE",
+    "runs": 132,
+    "avatar": "/assets/playerImgs/dumanga.png"
   },
   {
-    "pos": 4,
+    "pos": 3,
     "movement": 0,
-    "playerName": "NIMESH UPENDRA",
-    "runs": 55,
-    "avatar": "/assets/playerImgs/nimesh.png"
+    "playerName": "MOSITHA TIRAN",
+    "runs": 132,
+    "avatar": "/assets/playerImgs/mosi.png"
   },
   {
     "pos": 5,
+    "movement": 0,
+    "playerName": "NIMESH UPENDRA",
+    "runs": 97,
+    "avatar": "/assets/playerImgs/nimesh.png"
+  },
+  {
+    "pos": 6,
+    "movement": 0,
+    "playerName": "PASINDU CHAMIKA",
+    "runs": 49,
+    "avatar": "/assets/playerImgs/pasindu.png"
+  },
+  {
+    "pos": 7,
     "movement": 0,
     "playerName": "ASANKA SAMEERA",
     "runs": 44,
     "avatar": "/assets/playerImgs/asanka.png"
   },
   {
-    "pos": 6,
+    "pos": 8,
     "movement": 0,
     "playerName": "RUWAN PERERA",
     "runs": 42,
     "avatar": null
   },
   {
-    "pos": 7,
+    "pos": 9,
     "movement": 0,
     "playerName": "DILMIN DESHAN",
     "runs": 41,
     "avatar": "/assets/playerImgs/dilmin.png"
   },
   {
-    "pos": 8,
+    "pos": 10,
     "movement": 0,
-    "playerName": "MOSITHA TIRAN",
-    "runs": 37,
-    "avatar": "/assets/playerImgs/mosi.png"
+    "playerName": "ASHAN",
+    "runs": 36,
+    "avatar": null
   },
   {
-    "pos": 9,
+    "pos": 10,
     "movement": 0,
     "playerName": "NAYANA MADUSHANKA",
     "runs": 36,
     "avatar": "/assets/playerImgs/nayana.png"
   },
   {
-    "pos": 10,
+    "pos": 12,
     "movement": 0,
     "playerName": "MAYURA",
     "runs": 35,
     "avatar": null
   },
   {
-    "pos": 11,
-    "movement": 0,
-    "playerName": "PASINDU CHAMIKA",
-    "runs": 30,
-    "avatar": "/assets/playerImgs/pasindu.png"
-  },
-  {
-    "pos": 12,
-    "movement": 0,
-    "playerName": "ASHAN",
-    "runs": 16,
-    "avatar": null
-  },
-  {
     "pos": 13,
+    "movement": 0,
+    "playerName": "GIHAN GUNAWARDANA",
+    "runs": 20,
+    "avatar": "/assets/playerImgs/gg.png"
+  },
+  {
+    "pos": 14,
     "movement": 0,
     "playerName": "AMILA DINESH",
     "runs": 10,
     "avatar": "/assets/playerImgs/amila.png"
   },
   {
-    "pos": 14,
+    "pos": 15,
     "movement": 0,
     "playerName": "ISURU KANDAMBI",
     "runs": 6,
     "avatar": null
-  },
-  {
-    "pos": 15,
-    "movement": 0,
-    "playerName": "GIHAN GUNAWARDANA",
-    "runs": 3,
-    "avatar": "/assets/playerImgs/gg.png"
   }
 ]

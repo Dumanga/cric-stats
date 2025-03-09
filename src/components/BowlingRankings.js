@@ -61,7 +61,7 @@ const BowlingRankings = () => {
           fontSize: { xs: '0.75rem', sm: '0.875rem' }
         }}
       >
-        Last Updated - 10 January 2025
+        Last Updated - 25 February 2025
       </Typography>
       
       <TableContainer 
