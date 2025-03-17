@@ -2,72 +2,78 @@
   {
     "pos": 1,
     "playerName": "SUPUN CHATHURA",
-    "wickets": 12,
+    "wickets": 13,
     "avatar": "/assets/playerImgs/supun.png"
   },
   {
     "pos": 2,
     "playerName": "DUMANGA DISSANAYAKE",
-    "wickets": 6,
+    "wickets": 7,
     "avatar": "/assets/playerImgs/dumanga.png"
   },
   {
-    "pos": 3,
+    "pos": 2,
+    "playerName": "RUWAN PERERA",
+    "wickets": 7,
+    "avatar": null
+  },
+  {
+    "pos": 4,
     "playerName": "DILEEPA GAYAN",
-    "wickets": 5,
+    "wickets": 6,
     "avatar": "/assets/playerImgs/dileepa.png"
   },
   {
-    "pos": 3,
+    "pos": 5,
     "playerName": "PASINDU CHAMIKA",
     "wickets": 5,
     "avatar": "/assets/playerImgs/pasindu.png"
   },
   {
-    "pos": 5,
-    "playerName": "RUWAN PERERA",
-    "wickets": 3,
-    "avatar": null
-  },
-  {
-    "pos": 5,
+    "pos": 6,
     "playerName": "ASANKA SAMEERA",
-    "wickets": 3,
+    "wickets": 4,
     "avatar": "/assets/playerImgs/asanka.png"
   },
   {
-    "pos": 5,
+    "pos": 6,
+    "playerName": "NAYANA MADUSHANKA",
+    "wickets": 4,
+    "avatar": "/assets/playerImgs/nayana.png"
+  },
+  {
+    "pos": 8,
     "playerName": "ASHAN",
     "wickets": 3,
     "avatar": null
   },
   {
-    "pos": 5,
+    "pos": 8,
     "playerName": "GIHAN GUNAWARDANA",
     "wickets": 3,
     "avatar": "/assets/playerImgs/gg.png"
   },
   {
-    "pos": 9,
-    "playerName": "NAYANA MADUSHANKA",
-    "wickets": 1,
-    "avatar": "/assets/playerImgs/nayana.png"
-  },
-  {
-    "pos": 9,
+    "pos": 10,
     "playerName": "NIMESH UPENDRA",
     "wickets": 1,
     "avatar": "/assets/playerImgs/nimesh.png"
   },
   {
-    "pos": 9,
+    "pos": 10,
     "playerName": "AMILA DINESH",
     "wickets": 1,
     "avatar": "/assets/playerImgs/amila.png"
   },
   {
-    "pos": 9,
+    "pos": 10,
     "playerName": "ISURU KANDAMBI",
+    "wickets": 1,
+    "avatar": null
+  },
+  {
+    "pos": 10,
+    "playerName": "Manuja Amarasinghe",
     "wickets": 1,
     "avatar": null
   },

@@ -3,50 +3,50 @@
     "pos": 1,
     "movement": 0,
     "playerName": "SUPUN CHATHURA",
-    "runs": 156,
+    "runs": 200,
     "avatar": "/assets/playerImgs/supun.png"
   },
   {
     "pos": 2,
     "movement": 0,
     "playerName": "DILEEPA GAYAN",
-    "runs": 151,
+    "runs": 164,
     "avatar": "/assets/playerImgs/dileepa.png"
   },
   {
-    "pos": 3,
-    "movement": 0,
-    "playerName": "DUMANGA DISSANAYAKE",
-    "runs": 132,
-    "avatar": "/assets/playerImgs/dumanga.png"
-  },
-  {
-    "pos": 3,
+    "pos": 2,
     "movement": 0,
     "playerName": "MOSITHA TIRAN",
-    "runs": 132,
+    "runs": 164,
     "avatar": "/assets/playerImgs/mosi.png"
+  },
+  {
+    "pos": 4,
+    "movement": 0,
+    "playerName": "DUMANGA DISSANAYAKE",
+    "runs": 131,
+    "avatar": "/assets/playerImgs/dumanga.png"
   },
   {
     "pos": 5,
     "movement": 0,
-    "playerName": "NIMESH UPENDRA",
+    "playerName": "NAYANA MADUSHANKA",
     "runs": 97,
-    "avatar": "/assets/playerImgs/nimesh.png"
+    "avatar": "/assets/playerImgs/nayana.png"
   },
   {
     "pos": 6,
     "movement": 0,
-    "playerName": "PASINDU CHAMIKA",
-    "runs": 49,
-    "avatar": "/assets/playerImgs/pasindu.png"
+    "playerName": "ASANKA SAMEERA",
+    "runs": 77,
+    "avatar": "/assets/playerImgs/asanka.png"
   },
   {
     "pos": 7,
     "movement": 0,
-    "playerName": "ASANKA SAMEERA",
-    "runs": 44,
-    "avatar": "/assets/playerImgs/asanka.png"
+    "playerName": "PASINDU CHAMIKA",
+    "runs": 49,
+    "avatar": "/assets/playerImgs/pasindu.png"
   },
   {
     "pos": 8,
@@ -70,38 +70,38 @@
     "avatar": null
   },
   {
-    "pos": 10,
-    "movement": 0,
-    "playerName": "NAYANA MADUSHANKA",
-    "runs": 36,
-    "avatar": "/assets/playerImgs/nayana.png"
-  },
-  {
-    "pos": 12,
+    "pos": 11,
     "movement": 0,
     "playerName": "MAYURA",
     "runs": 35,
     "avatar": null
   },
   {
-    "pos": 13,
+    "pos": 12,
     "movement": 0,
     "playerName": "GIHAN GUNAWARDANA",
     "runs": 20,
     "avatar": "/assets/playerImgs/gg.png"
   },
   {
-    "pos": 14,
+    "pos": 13,
     "movement": 0,
     "playerName": "AMILA DINESH",
     "runs": 10,
     "avatar": "/assets/playerImgs/amila.png"
   },
   {
-    "pos": 15,
+    "pos": 14,
     "movement": 0,
     "playerName": "ISURU KANDAMBI",
-    "runs": 6,
+    "runs": 9,
+    "avatar": null
+  },
+  {
+    "pos": 15,
+    "movement": 0,
+    "playerName": "Manuja Amarasinghe",
+    "runs": 1,
     "avatar": null
   }
 ]
