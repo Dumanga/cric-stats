@@ -3,63 +3,63 @@
     "pos": 1,
     "movement": 0,
     "playerName": "SUPUN CHATHURA",
-    "runs": 200,
+    "runs": 207,
     "avatar": "/assets/playerImgs/supun.png"
   },
   {
     "pos": 2,
     "movement": 0,
     "playerName": "DILEEPA GAYAN",
-    "runs": 164,
+    "runs": 180,
     "avatar": "/assets/playerImgs/dileepa.png"
   },
   {
     "pos": 2,
     "movement": 0,
     "playerName": "MOSITHA TIRAN",
-    "runs": 164,
+    "runs": 173,
     "avatar": "/assets/playerImgs/mosi.png"
   },
   {
     "pos": 4,
     "movement": 0,
     "playerName": "DUMANGA DISSANAYAKE",
-    "runs": 131,
+    "runs": 164,
     "avatar": "/assets/playerImgs/dumanga.png"
   },
   {
     "pos": 5,
     "movement": 0,
     "playerName": "NIMESH UPENDRA",
-    "runs": 125,
+    "runs": 133,
     "avatar": "/assets/playerImgs/nimesh.png"
   },
   {
     "pos": 6,
     "movement": 0,
     "playerName": "NAYANA MADUSHANKA",
-    "runs": 97,
+    "runs": 108,
     "avatar": "/assets/playerImgs/nayana.png"
   },
   {
     "pos": 7,
     "movement": 0,
     "playerName": "ASANKA SAMEERA",
-    "runs": 77,
+    "runs": 94,
     "avatar": "/assets/playerImgs/asanka.png"
   },
   {
     "pos": 8,
     "movement": 0,
     "playerName": "PASINDU CHAMIKA",
-    "runs": 49,
+    "runs": 80,
     "avatar": "/assets/playerImgs/pasindu.png"
   },
   {
     "pos": 9,
     "movement": 0,
     "playerName": "RUWAN PERERA",
-    "runs": 42,
+    "runs": 58,
     "avatar": null
   },
   {
@@ -108,7 +108,7 @@
     "pos": 16,
     "movement": 0,
     "playerName": "Manuja Amarasinghe",
-    "runs": 1,
+    "runs": 8,
     "avatar": null
   }
 ]

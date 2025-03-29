@@ -61,7 +61,7 @@ const BattingRankings = () => {
           fontSize: { xs: '0.75rem', sm: '0.875rem' }
         }}
       >
-        Last Updated - 17 March 2025
+        Last Updated - 29 March 2025
       </Typography>
       
       <TableContainer 
