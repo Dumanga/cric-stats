@@ -69,21 +69,10 @@ const BowlingRankings = () => {
       <TableContainer
         component={Paper}
         sx={{
-          boxShadow:
-            "0 4px 6px -1px rgb(10 31 64 / 0.1), 0 2px 4px -2px rgb(173 7 115 / 0.1)",
           borderRadius: { xs: "12px", sm: "16px" },
-          overflow: "hidden",
           bgcolor: "white",
-          "&::-webkit-scrollbar": {
-            height: "8px",
-          },
-          "&::-webkit-scrollbar-track": {
-            backgroundColor: "#f1f5f9",
-          },
-          "&::-webkit-scrollbar-thumb": {
-            backgroundColor: "rgba(10, 31, 64, 0.2)",
-            borderRadius: "4px",
-          },
+          overflowX: "auto", // allows horizontal scroll
+          WebkitOverflowScrolling: "touch", // smooth scroll on mobile
         }}
       >
         <Table sx={{ minWidth: { xs: 300, sm: 500, md: 650 } }}>
@@ -168,11 +157,11 @@ const BowlingRankings = () => {
                       sx={{
                         width:
                           row.pos === 1
-                            ? { xs: 50, sm: 70, md: 90 }
+                            ? { xs: 40, sm: 70, md: 90 }
                             : { xs: 40, sm: 48, md: 56 },
                         height:
                           row.pos === 1
-                            ? { xs: 50, sm: 70, md: 90 }
+                            ? { xs: 40, sm: 70, md: 90 }
                             : { xs: 40, sm: 48, md: 56 },
                         border:
                           row.pos === 1
@@ -189,7 +178,7 @@ const BowlingRankings = () => {
                         sx={{
                           fontSize:
                             row.pos === 1
-                              ? { xs: "0.875rem", sm: "1rem", md: "1.125rem" }
+                              ? { xs: "0.75rem", sm: "1rem", md: "1.125rem" }
                               : { xs: "0.75rem", sm: "0.875rem", md: "1rem" },
                           color: "#0a1f40",
                           fontWeight: "500",
