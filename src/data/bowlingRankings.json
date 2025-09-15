@@ -15,27 +15,20 @@
   },
   {
     "pos": 3,
-    "playerName": "DILEEPA GAYAN",
-    "avatar": "/assets/playerImgs/dilee.jpg",
-    "wickets": 6,
-    "matches": 4
-  },
-  {
-    "pos": 3,
     "playerName": "KELUM EGALLA",
     "avatar": "/assets/playerImgs/kelum.jpg",
     "wickets": 7,
     "matches": 3
   },
   {
-    "pos": 5,
-    "playerName": "DILMIN DESHAN",
-    "avatar": "/assets/playerImgs/dilmin.png",
-    "wickets": 4,
-    "matches": 2
+    "pos": 4,
+    "playerName": "DILEEPA GAYAN",
+    "avatar": "/assets/playerImgs/dilee.jpg",
+    "wickets": 6,
+    "matches": 4
   },
   {
-    "pos": 6,
+    "pos": 5,
     "playerName": "RUWAN PERERA",
     "avatar": "/assets/playerImgs/ruwa.jpg",
     "wickets": 5,
@@ -43,13 +36,20 @@
   },
   {
     "pos": 6,
+    "playerName": "DILMIN DESHAN",
+    "avatar": "/assets/playerImgs/dilmin.png",
+    "wickets": 4,
+    "matches": 2
+  },
+  {
+    "pos": 7,
     "playerName": "MANUJA AMARASINGHE",
     "avatar": "/assets/playerImgs/manuja.jpg",
     "wickets": 2,
     "matches": 4
   },
   {
-    "pos": 6,
+    "pos": 7,
     "playerName": "ASANKA SAMEERA",
     "avatar": "/assets/playerImgs/asa.jpg",
     "wickets": 2,
@@ -63,24 +63,24 @@
     "matches": 2
   },
   {
-    "pos": 10,
+    "pos": 9,
+    "playerName": "SALIYA",
+    "avatar": "/assets/playerImgs/saliya.jpg",
+    "wickets": 1,
+    "matches": 1
+  },
+  {
+    "pos": 11,
     "playerName": "ISURU KANDAMBI",
     "avatar": "/assets/playerImgs/issa.jpg",
     "wickets": 0,
     "matches": 0
   },
   {
-    "pos": 10,
+    "pos": 11,
     "playerName": "CHAVINDU",
     "avatar": "/assets/playerImgs/chavi.jpg",
     "wickets": 0,
-    "matches": 1
-  },
-  {
-    "pos": 10,
-    "playerName": "SALIYA",
-    "avatar": "/assets/playerImgs/saliya.jpg",
-    "wickets": 1,
     "matches": 1
   }
 ]
