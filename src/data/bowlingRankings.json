@@ -3,29 +3,29 @@
     "pos": 1,
     "playerName": "DUMANGA DISSANAYAKE",
     "avatar": "/assets/playerImgs/duma.jpg",
-    "wickets": 22,
-    "matches": 8
+    "wickets": 23,
+    "matches": 10
   },
   {
     "pos": 2,
     "playerName": "PASINDU CHAMIKA",
     "avatar": "/assets/playerImgs/pasi.jpg",
-    "wickets": 12,
-    "matches": 7
+    "wickets": 20,
+    "matches": 9
   },
   {
     "pos": 3,
     "playerName": "KELUM EGALLA",
     "avatar": "/assets/playerImgs/kelum.jpg",
-    "wickets": 7,
-    "matches": 3
+    "wickets": 11,
+    "matches": 5
   },
   {
     "pos": 4,
     "playerName": "DILEEPA GAYAN",
     "avatar": "/assets/playerImgs/dilee.jpg",
-    "wickets": 6,
-    "matches": 4
+    "wickets": 7,
+    "matches": 5
   },
   {
     "pos": 5,
@@ -56,18 +56,18 @@
     "matches": 2
   },
   {
-    "pos": 9,
+    "pos": 7,
     "playerName": "NAYANA MADUSHANKA",
     "avatar": "/assets/playerImgs/nayya.jpg",
-    "wickets": 1,
-    "matches": 2
+    "wickets": 2,
+    "matches": 4
   },
   {
-    "pos": 9,
-    "playerName": "SALIYA",
+    "pos": 7,
+    "playerName": "SALIYA RAVINDIKA",
     "avatar": "/assets/playerImgs/saliya.jpg",
-    "wickets": 1,
-    "matches": 1
+    "wickets": 2,
+    "matches": 3
   },
   {
     "pos": 11,
