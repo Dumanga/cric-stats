@@ -3,20 +3,36 @@
     "pos": 1,
     "movement": 0,
     "playerName": "DUMANGA DISSANAYAKE",
-    "runs": 271,
+    "runs": 288,
     "avatar": "/assets/playerImgs/duma.jpg",
-    "innings": 8
+    "innings": 10
   },
   {
     "pos": 2,
     "movement": 0,
-    "playerName": "PASINDU CHAMIKA",
-    "runs": 175,
-    "avatar": "/assets/playerImgs/pasi.jpg",
-    "innings": 8
+    "playerName": "DILEEPA GAYAN",
+    "runs": 230,
+    "avatar": "/assets/playerImgs/dilee.jpg",
+    "innings": 4
   },
   {
     "pos": 3,
+    "movement": 0,
+    "playerName": "PASINDU CHAMIKA",
+    "runs": 222,
+    "avatar": "/assets/playerImgs/pasi.jpg",
+    "innings": 10
+  },
+  {
+    "pos": 4,
+    "movement": 0,
+    "playerName": "NIMESH UPENDRA",
+    "runs": 189,
+    "avatar": "/assets/playerImgs/nimma.jpg",
+    "innings": 9
+  },
+  {
+    "pos": 5,
     "movement": 0,
     "playerName": "RUWAN PERERA",
     "runs": 141,
@@ -24,31 +40,23 @@
     "innings": 6
   },
   {
-    "pos": 4,
-    "movement": 0,
-    "playerName": "DILEEPA GAYAN",
-    "runs": 121,
-    "avatar": "/assets/playerImgs/dilee.jpg",
-    "innings": 3
-  },
-  {
-    "pos": 5,
-    "movement": 0,
-    "playerName": "NIMESH UPENDRA",
-    "runs": 102,
-    "avatar": "/assets/playerImgs/nimma.jpg",
-    "innings": 7
-  },
-  {
     "pos": 6,
     "movement": 0,
     "playerName": "MOSITHA TIRAN",
-    "runs": 94,
+    "runs": 115,
     "avatar": "/assets/playerImgs/mosi.jpg",
-    "innings": 8
+    "innings": 10
   },
   {
     "pos": 7,
+    "movement": 0,
+    "playerName": "KELUM EGALLA",
+    "runs": 63,
+    "avatar": "/assets/playerImgs/kelum.jpg",
+    "innings": 5
+  },
+  {
+    "pos": 8,
     "movement": 0,
     "playerName": "MANUJA AMARASINGHE",
     "runs": 57,
@@ -56,7 +64,7 @@
     "innings": 6
   },
   {
-    "pos": 8,
+    "pos": 9,
     "movement": 0,
     "playerName": "GIHAN GUNAWARDANA",
     "runs": 53,
@@ -64,7 +72,7 @@
     "innings": 4
   },
   {
-    "pos": 9,
+    "pos": 10,
     "movement": 0,
     "playerName": "NAYANA MADUSHANKA",
     "runs": 51,
@@ -72,7 +80,15 @@
     "innings": 6
   },
   {
-    "pos": 10,
+    "pos": 11,
+    "movement": 0,
+    "playerName": "ASANKA SAMEERA",
+    "runs": 46,
+    "avatar": "/assets/playerImgs/asa.jpg",
+    "innings": 4
+  },
+  {
+    "pos": 12,
     "movement": 0,
     "playerName": "AMILA DINESH",
     "runs": 26,
@@ -80,28 +96,12 @@
     "innings": 1
   },
   {
-    "pos": 11,
-    "movement": 0,
-    "playerName": "ASANKA SAMEERA",
-    "runs": 27,
-    "avatar": "/assets/playerImgs/asa.jpg",
-    "innings": 3
-  },
-  {
-    "pos": 12,
-    "movement": 0,
-    "playerName": "KELUM EGALLA",
-    "runs": 25,
-    "avatar": "/assets/playerImgs/kelum.jpg",
-    "innings": 3
-  },
-  {
     "pos": 13,
     "movement": 0,
     "playerName": "SALIYA ",
-    "runs": 1,
+    "runs": 4,
     "avatar": "/assets/playerImgs/saliya.jpg",
-    "innings": 1
+    "innings": 3
   },
   {
     "pos": 14,
